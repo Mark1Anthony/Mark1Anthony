@@ -1,18 +1,22 @@
 ### Hi, I'm Mark.
 
-Software developer and AI automation specialist based in Düsseldorf. I build web applications, integrate AI systems, and automate workflows for businesses.
+Software developer based in Düsseldorf. Backend with Python/FastAPI and
+TypeScript/Next.js, plus C++ for the low-level side.
 
-**What I work with:**
+**Stack**
 
-`TypeScript` `Python` `C++` `Next.js` `FastAPI` `Supabase` `PostgreSQL` `OpenAI API` `Tailwind CSS`
+`Python` `FastAPI` `TypeScript` `Next.js` `PostgreSQL` `SQLite` `Supabase` `C++17` `CMake` `Astro` `Tailwind` `OpenAI API`
 
-**Projects:**
+**What I'm working on**
 
 | Project | What it is | Stack |
 |---------|-----------|-------|
-| [DealFlow CRM](https://github.com/Mark1Anthony/dealflow-crm) | Full-stack CRM with Kanban pipeline, auth, RLS | Next.js 15, Supabase, TypeScript |
-| [Lead Triage](https://github.com/Mark1Anthony/lead-triage) | AI-powered lead classification system | FastAPI, OpenAI, SQLite |
-| [Client Showcase](https://github.com/Mark1Anthony/client-showcase) | 7 industry websites + AI automation demo + sales funnel | HTML, Tailwind, JavaScript |
-| [Shell](https://github.com/Mark1Anthony/Shell) | Custom command-line shell | C++17, Win32 API |
+| [dealflow-crm](https://github.com/Mark1Anthony/dealflow-crm) | CRM with a deal pipeline, Kanban drag & drop and Row Level Security on every table. [Live demo](https://dealflow-crm-eta.vercel.app) — guest access, no sign-up | Next.js 16, Supabase, TypeScript |
+| [lead-triage](https://github.com/Mark1Anthony/lead-triage) | Lead classification over FastAPI. Uses GPT when an API key is set; the public demo runs a deterministic keyword classifier instead | FastAPI, SQLite, OpenAI API |
+| [client-showcase](https://github.com/Mark1Anthony/client-showcase) | Six demo industry sites plus a multi-step sales funnel with dynamic pricing and an availability calendar, ~450 lines of vanilla JS | HTML, Tailwind, JavaScript |
+| [Shell](https://github.com/Mark1Anthony/Shell) | A small Windows command interpreter — four built-ins and process launching via the Win32 API. Written to learn `CreateProcessA` | C++17, CMake |
+
+Every company, price and reference in the showcase is invented — those are demo
+sites, not clients.
 
 **[Portfolio](https://mark1anthony.github.io/mark-portfolio/)** · **[Email](mailto:markamaechi.dev@gmail.com)**
